@@ -1,0 +1,8 @@
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\bin\Debug\Assignment_09.exe.config
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\bin\Debug\Assignment_09.exe
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\bin\Debug\Assignment_09.pdb
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\obj\Debug\Assignment_09.csproj.AssemblyReference.cache
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\obj\Debug\Assignment_09.csproj.SuggestedBindingRedirects.cache
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\obj\Debug\Assignment_09.csproj.CoreCompileInputs.cache
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\obj\Debug\Assignment_09.exe
+D:\AssignmentfolderSQL files\Day9Assignment\Assignment_09\Assignment_09\obj\Debug\Assignment_09.pdb
